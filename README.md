@@ -4,7 +4,6 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>月姫 琥珀さん fanart - k00.png</title>
   <meta name="description" content="月姫のキャラクター琥珀さんの考察用画像k00.pngを表示するページです。">
 </head>
 <body>
